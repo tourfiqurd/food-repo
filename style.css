@@ -1,0 +1,144 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Merienda', cursive;
+    line-height: 30px;
+
+
+}
+
+
+
+
+h1 {
+    font-size: 45px;
+    line-height: normal;
+}
+
+/*section-1 starts here*/
+
+.flex {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+}
+
+.text {
+    padding: 10px;
+    padding-left: 25px;
+
+
+}
+
+.pt {
+    padding-top: 150px;
+
+}
+
+.text h1,
+p {
+    color: rgb(83, 83, 83);
+}
+
+.text span {
+    color: orangered;
+}
+
+.text button {
+    padding: 15px 25px;
+    font-size: 16px;
+    border-radius: 25px;
+    border: none;
+    background-image: linear-gradient(to right, orange, orangered);
+    font-family: 'Merienda', cursive;
+    font-weight: bold;
+    color: white;
+}
+
+
+.image {
+    padding-top: 50px;
+
+    margin-left: 150px;
+}
+
+/*section-1 ends here*/
+/*section-2 starts here*/
+.sec-2 {
+    height: 800px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 350px;
+
+}
+
+/*section-2 ends here*/
+/*section-3 starts here*/
+.sec-3 {
+    text-align: center;
+    color: rgb(75, 73, 73);
+}
+
+.sec-3 span {
+    color: orangered;
+}
+
+.fourty {
+    width: 25%;
+}
+
+.card-1 {
+    margin-left: 4%;
+    box-shadow: 15px 15px 35px black;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.card-1 h2,
+h5 {
+    text-align: justify;
+    color: rgb(83, 83, 83);
+}
+
+/*section-3 ends here*/
+/*section-4 starts here*/
+.sec-4 {
+    margin: 100px;
+    box-shadow: 15px 15px 45px black;
+}
+
+.item-1 {
+    padding: 10px;
+    text-align: center;
+    width: 33.33%;
+}
+
+footer {
+    background-color: black;
+}
+
+footer h1 {
+    color: rgb(83, 83, 83);
+    padding: 20px;
+    text-align: center;
+}
+
+footer h1 span {
+    color: orangered;
+}
+
+footer h3 {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    line-height: 0px;
+}
+
+
+
+
+/*section-4 ends here*/
